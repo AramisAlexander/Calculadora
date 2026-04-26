@@ -24,6 +24,12 @@ public class Calculadora {
     System.out.println("La multiplicación es: " + resultado);
     
     }
+    
+    public void Dividir(int a , int b)
+    {
+        int resultado_div = (a % b);
+        System.out.println("El residuo de la división es: "+resultado_div);
+    }
 
 }
     
