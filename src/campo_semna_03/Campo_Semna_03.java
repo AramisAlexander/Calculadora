@@ -18,6 +18,8 @@ public class Campo_Semna_03 {
         Calculadora c = new Calculadora();
         
         c.sumar(10, 10);
+        c.multiplicar(15, 2);
+        c.Resta(20, 5);
     }
     
 }

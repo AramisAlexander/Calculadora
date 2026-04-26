@@ -24,6 +24,12 @@ public class Calculadora {
     System.out.println("La multiplicación es: " + resultado);
     
     }
+    
+    public void Resta (int a, int b){
+        
+        int resultado = (a - b);
+        System.out.println("La resta es: " + resultado);
+    }
 
 }
     
