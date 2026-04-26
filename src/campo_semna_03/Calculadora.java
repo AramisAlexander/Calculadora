@@ -15,5 +15,16 @@ public class Calculadora {
         int resultado = (a + b);
         System.out.println("La suma es: " + resultado);
     }
+
+
+    public void multiplicar(int a, int b)
+    {
+
+    int resultado = (a * b);
+    System.out.println("La multiplicación es: " + resultado);
     
+    }
+
 }
+    
+
