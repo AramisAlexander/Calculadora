@@ -18,6 +18,11 @@ public class Campo_Semna_03 {
         Calculadora c = new Calculadora();
         
         c.sumar(10, 10);
-    }
+ 
+
+    double resultadoDivision = c.division(10, 2);
+    System.out.println("La division es: " + resultadoDivision);
+
+}
     
 }
